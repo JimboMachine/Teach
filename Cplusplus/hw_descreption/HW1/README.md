@@ -177,7 +177,7 @@ ERROR
 沒有多餘的程式
 
 # 分數
-有13個隱藏測試 12個範例測試 1個測試4分 總共100分
+有12個隱藏測試 13個範例測試 1個測試4分 總共100分
 
 # 可能會有幫助的Syntax
 [round()](https://www.techiedelight.com/zh-tw/restrict-a-float-to-two-places-after-the-decimal-point-in-cpp/)
