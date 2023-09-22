@@ -3,6 +3,7 @@
 
 # 課程
 2023/09/17: Function Recursion
+2023/09/24: Function Recursion For Loop
 
 ## Function
 回傳回來的資料型態 函數名稱(傳入資料型態 參數名稱,...){
@@ -65,7 +66,7 @@ int add(int a, int b) {
 ## Recursion
 遞迴（Recursion）是一種在程式設計中常見的技巧，它指的是一個函數可以呼叫自己。遞迴通常用於解決可以分解為較小但相似的子問題的問題，例如數學中的遞迴關係或樹狀結構的操作。在C++中，你可以使用遞迴來實現這種功能。
 
-以下是一個簡單的示例，顯示如何使用遞迴計算階乘（factorial）：
+以下是一個簡單的範例，顯示如何使用遞迴計算階乘（factorial）：
 ```
 #include <iostream>
 
