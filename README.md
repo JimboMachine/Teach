@@ -1,9 +1,18 @@
 # 規劃
-看情況調整
+Quiz1 will be held on 10/29
+考試內容之前教過的知識點以及一些基礎演算法
+考試以紙筆進行
+模擬題我已放上再Exam_info的資料夾，再請多加練習
 
 # 課程
-2023/09/17: Function Recursion
-2023/09/24: Function Recursion For Loop
+2023/09/17: Function and Recursion
+2023/09/24: Function and Recursion For Loop
+2023/10/01: Vector and Array
+2023/10/10: Buble Sort and Selection Sort
+2023/10/22: Quick Sort, Insertion Sort and Merge Sort 
+2023/10/29: Quiz1
+--TBD--
+再兩次上課後的11月會進行一次上機考(代議)
 
 ## Function
 回傳回來的資料型態 函數名稱(傳入資料型態 參數名稱,...){
@@ -119,9 +128,19 @@ at(i)：隨機存取索引值為i的元素，跟上面 operator[] 差異是 at(i
 
 reserve()：預先配置大小
 
+## Sort
+### 泡沫排序法(Bubble Sort)
+https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHyyCFRj9d
+
+### 選擇排序法(Selection sort)
+https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHy4Cwch9u
+
 ### 題目:
-1.GPA
-
-2.圖形製作v1
-
-3.圖形製作v2
+請查閱
+```HW=
+Cplusplus
+    -Exam_info
+    -hw_description
+        hw...
+    -hw_solution
+```
