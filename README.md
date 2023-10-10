@@ -1,15 +1,23 @@
 # 規劃
 Quiz1 will be held on 10/29
+
 考試內容之前教過的知識點以及一些基礎演算法
+
 考試以紙筆進行
+
 模擬題我已放上再Exam_info的資料夾，再請多加練習
 
 # 課程
 2023/09/17: Function and Recursion
+
 2023/09/24: Function and Recursion For Loop
+
 2023/10/01: Vector and Array
+
 2023/10/10: Buble Sort and Selection Sort
+
 2023/10/22: Quick Sort, Insertion Sort and Merge Sort 
+
 2023/10/29: Quiz1
 --TBD--
 再兩次上課後的11月會進行一次上機考(代議)
