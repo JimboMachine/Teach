@@ -145,6 +145,14 @@ https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHyyC
 ### 選擇排序法(Selection sort)
 https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHy4Cwch9u
 
+### 插入排序法(Insertion sort)
+https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FS1tJMC35_
+
+### 快速排序(Quick Sort)
+https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FB1SPnfRq_
+
+### 合併排序法(Merge Sort)
+https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHJgJ3hxkou
 ### 題目:
 請查閱
 ```HW=
