@@ -19,7 +19,9 @@ Quiz1 will be held on 10/29
 2023/10/22: Quick Sort, Insertion Sort and Merge Sort 
 
 2023/10/29: Quiz1
+
 --TBD--
+
 再兩次上課後的11月會進行一次上機考(代議)
 
 ## Function
