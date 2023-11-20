@@ -1,11 +1,5 @@
 # 規劃
-Quiz1 will be held on 10/29
 
-考試內容之前教過的知識點以及一些基礎演算法
-
-考試以紙筆進行
-
-模擬題我已放上再Exam_info的資料夾，再請多加練習
 
 # 課程
 2023/09/17: Function and Recursion
@@ -20,9 +14,13 @@ Quiz1 will be held on 10/29
 
 2023/10/29: Quiz1
 
+2023/11/20 struct And Linked List
+
+2023/11/26 Linked List
+
 --TBD--
 
-再兩次上課後的11月會進行一次上機考(代議)
+再兩次上課後的會進行一次上機考(代議)
 
 ## Function
 回傳回來的資料型態 函數名稱(傳入資料型態 參數名稱,...){
@@ -153,6 +151,72 @@ https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FB1SP
 
 ### 合併排序法(Merge Sort)
 https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHJgJ3hxkou
+
+## strcut
+struct 結構用法與範例，struct 可以將不同資料類型集合在一起，通常將相關的變數類型放在同一個 struct 裡，也方便參數傳遞。
+
+```cpp=
+#include <iostream.h>
+#include <string>
+using namespace std;
+
+struct student {
+    int id;
+    int age;
+    char name[32];
+};
+
+int main() {
+    struct student s1;
+    s1.id = 10;
+    s1.age = 18;
+    strcpy(s1.name, "Tom");
+    cout << s1.id << endl;
+    cout << s1.age << endl;
+    cout << s1.name << endl;
+
+    struct student s2 = {11, 20, "Jerry"};
+    cout << s2.id << endl;
+    cout << s2.age << endl;
+    cout << s2.name << endl;
+
+    return 0;
+}
+```
+C/C++ 經常使用 typedef 把某個 struct 取一個別名，以下示範用 typedef 將 struct student 取一個 student_t 別名，之後宣告時就可以使用新的 student_t 別名，就可以省去加上 struct，藉此達到簡化宣告語法，
+```c++=
+typedef struct student {
+    int id;
+    int age;
+    char name[32];
+} student_t;
+
+int main() {
+    student_t s1;
+    s1.id = 123;
+    s1.age = 20;
+    cout << s1.id << " " << s1.age;
+    return 0;
+}
+```
+另外還可以把 struct 的定義跟 typedef 分開寫，像這樣寫，
+```
+struct student {
+    int id;
+    int age;
+    char name[32];
+};
+
+typedef struct student student_t;
+int main() {
+    student_t s1;
+    s1.id = 123;
+    s1.age = 20;
+    cout << s1.id << " " << s1.age;
+    return 0;
+}
+```
+
 ### 題目:
 請查閱
 ```HW=
