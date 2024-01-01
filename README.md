@@ -1,5 +1,5 @@
 # 規劃
-
+2023/12/24 上機考(2hr) 考題3~4題
 
 # 課程
 2023/09/17: Function and Recursion
@@ -22,11 +22,11 @@
 
 2023/12/10 DP(Knapsack Problem)(補上)
 
---TBD--
-12/24 上機考(2hr) 考題3~4題
+2023/12/24 Sick Leave
 
-再兩次上課後的會進行一次上機考(代議)
+2023/12/31 Review
 
+2024/1/7 上機考
 ## Function
 回傳回來的資料型態 函數名稱(傳入資料型態 參數名稱,...){
     do something...;
@@ -159,6 +159,9 @@ https://hackmd.io/@Aquamay/H1nxBOLcO/https%3A%2F%2Fhackmd.io%2F%40Aquamay%2FHJgJ
 
 ## Dynamic Programming
 https://web.ntnu.edu.tw/~algo/KnapsackProblem.html
+
+https://hackmd.io/@CLKO/ByZgGkLpW?type=view
+
 
 ## struct
 struct 結構用法與範例，struct 可以將不同資料類型集合在一起，通常將相關的變數類型放在同一個 struct 裡，也方便參數傳遞。
